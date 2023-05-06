@@ -23,3 +23,7 @@
 1. GitHub DeskTop의 위쪽 메뉴 중 branch를 눌러준다.
 2. Update from master를 클릭한다.
 3. 잘 합쳐졌는지 확인 후 다시 즐거운 작업을 시작한다!
+
+
+####더 자세하게 알아보기
+https://codegear.tistory.com/37
