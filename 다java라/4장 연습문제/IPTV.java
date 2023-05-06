@@ -1,5 +1,5 @@
 import java.util.*;
-
+// 5장 2번문제
 class TV{
 	private int size;
 	public TV(int size) {this.size = size;}
