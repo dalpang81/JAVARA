@@ -26,5 +26,5 @@
 
 #### Create Pull Request는 신경쓰지 말고 작업하세요! 안해도 됩니당
 
-####더 자세하게 알아보기
+#### 더 자세하게 알아보기
 https://codegear.tistory.com/37
