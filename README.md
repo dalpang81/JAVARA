@@ -24,7 +24,7 @@
 2. Update from master를 클릭한다.
 3. 잘 합쳐졌는지 확인 후 다시 즐거운 작업을 시작한다!
 
-#### Create Pull Request는 신경쓰지 말고 작업하세요! 안해도 
+#### Create Pull Request는 신경쓰지 말고 작업하세요! 안해도 됩니당
 
 ####더 자세하게 알아보기
 https://codegear.tistory.com/37
