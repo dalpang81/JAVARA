@@ -45,7 +45,8 @@ class MonthSchedule {
 			System.out.println("잘못된 입력입니다.\n");
 			return;
 		}
-		System.out.println(date + "일의 할 일은 " + day[date - 1].get() + "입니다.");
+		System.out.print(date + "일의 할 일은 ");
+		day[date - 1].show();
 	}
 	
 	private void finish()
