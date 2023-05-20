@@ -1,4 +1,4 @@
-// new 객체생성
+// new 객체생성1
 
 // 4장 2번
 import java.util.Scanner;
