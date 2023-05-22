@@ -9,7 +9,7 @@ public class Main{
 
         StringBuffer sb = new StringBuffer(a);
         while(true){
-            System.out.println("명령: ");
+            System.out.print("명령: ");
             String b = scanner.nextLine();
             
             if(b.equals("그만"))
