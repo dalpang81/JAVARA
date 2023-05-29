@@ -14,7 +14,7 @@ class Circle{
         else return false;
     }
 }
-public class Main{
+public class Ch6_2{
     public static void main(String[] args){
         Circle a = new Circle(2, 3, 5);
         Circle b = new Circle(2, 3, 30);
